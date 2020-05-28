@@ -11,7 +11,7 @@
 
 Всі необхідні бібліотеки містяться у теці [jars](https://github.com/ppc-ntu-khpi/GUI-Lab1-Starter/tree/master/jars). В тому числі - всі необхідні відкомпільовані класи з робіт 1-8 - файл [MyBank.jar](https://github.com/ppc-ntu-khpi/GUI-Lab1-Starter/blob/master/jars/MyBank.jar). Файл даних лежить у теці [data](https://github.com/ppc-ntu-khpi/GUI-Lab1-Starter/tree/master/data).
 
-<img src="https://github.com/ppc-ntu-khpi/gui-lab1-34-KolyaCherednikov/blob/master/Screenshot.png" width="100%"/>
+<img src="https://github.com/ppc-ntu-khpi/gui-lab1-34-KolyaCherednikov/blob/master/Screenshot.png" width="25%"/>
 
 ---
 ## На "п'ять"
